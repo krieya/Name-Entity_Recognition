@@ -1,4 +1,4 @@
-# Name-Entity_Recognition
+# Named-Entity_Recognition
 
 ## Data Source
 
